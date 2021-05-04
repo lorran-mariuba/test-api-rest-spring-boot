@@ -4,9 +4,9 @@ This is a little project that do a basic C.R.U.D and basic methods without encap
 Dependences
 ----------------------------
 1 - Spring Web<br>
-2 - Spring Data JPA
-3 - Spring DevTools
-4 - H22 Database
+2 - Spring Data JPA<br>
+3 - Spring DevTools<br>
+4 - H22 Database<br>
 5 - Lombok
 
 Technologies
